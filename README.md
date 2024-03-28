@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+### About Me
+- 🎓 **Bachelor's** Degree in Robotics Engineering, South China University of Technology (2020-2024)
+- 🌱 **Master's** Student in Computer Science and Technology, University of Chinese Academy of Sciences (2024-2027)
+- 🌟 **Research Interests**: *Multimodal Robotics, Robot Manipulation, Reinforcement Learning*
+
+### Research Projects
+- 🔭 **Multimodal Fusion for Robot Grasping and Sliding Detection** (Dec 2023 - Present)
+  - Investigating multimodal fusion techniques for enhancing robot grasping and sliding detection capabilities.
+  - Exploring the integration of vision, tactile, and proprioceptive sensing modalities for robust manipulation tasks.
+
+### Contact Information
+- 📫 Email: wangqiumimao@gmail.com
+- ⚡ Blog: www.wangqiumimao.ink
 
 <!--
 **zahir-w/zahir-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
