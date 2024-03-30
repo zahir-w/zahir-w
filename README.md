@@ -1,7 +1,7 @@
 ## Hi there, I am Zihan Wang 👋
 ### About Me
 - 🎓 **Bachelor's** Degree in Robotics, *South China University of Technology (2020-2024)*
-- 🌱 **Master's** Student in CS, *University of Chinese Academy of Sciences (2024-2027)*
+- 🌱 **Master's** Student in Computer Science, *University of Chinese Academy of Sciences (2024-2027)*
 - 🌟 **Research Interests**: <u>Multimodal Robotics, Robot Manipulation, Reinforcement Learning</u>
 
 ### Research Projects
