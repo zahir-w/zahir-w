@@ -8,6 +8,8 @@
 - 🔭 **Multimodal Fusion for Robot Grasping and Sliding Detection** *(Dec 2023 - May 2024)*
   - Investigating multimodal fusion techniques for enhancing robot grasping and sliding detection capabilities.
   - Exploring the integration of vision, tactile, and proprioceptive sensing modalities for robust manipulation tasks.
+- 🦾 **Reinforcement Learning in Tactile Manipulation for Robot** *(May 2024 - Now)*
+  - Still Learning... 😀
 
 ### Contact Information
 - 📫 Email: wangqiumimao@gmail.com
