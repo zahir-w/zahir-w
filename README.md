@@ -12,7 +12,7 @@
   - Still Learning... 😀
 
 ### Contact Information
-- 📫 Email: wangqiumimao@gmail.com
+- 📫 Email: wangzihan242@mails.ucas.ac.cn
 - ⚡ Blog: www.wangqiumimao.ink
 
 <!--
