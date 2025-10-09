@@ -8,8 +8,15 @@
 - 🔭 **Multimodal Fusion for Robot Grasping and Sliding Detection** *(Dec 2023 - May 2024)*
   - Investigating multimodal fusion techniques for enhancing robot grasping and sliding detection capabilities.
   - Exploring the integration of vision, tactile, and proprioceptive sensing modalities for robust manipulation tasks.
-- 🦾 **Reinforcement Learning in Tactile Manipulation for Robot** *(May 2024 - Now)*
-  - Still Learning... 😀
+<!--
+- 📈 **MoFE-Time: Mixture of Frequency Domain Experts for Time-Series Forecasting models**
+  - Worked as a research intern at Li Auto Inc., focusing on Mixture-of-Experts architectures and time-series foundation models.
+  - Participated in developing and testing MoFE-Time, a Mixture of Frequency-Domain Experts model for time-series forecasting.
+  - Gained practical experience in large-model training, spectral representation learning, and performance evaluation on Li Auto’s internal sales dataset.
+-->
+- 🦾 **Vision-Tactile-Language-Action Model for Robot Manipulation based on VLM** *(Sep 2025 - Now)*
+  - Developing a unified multimodal model integrating vision, tactile, and language modalities for contact-rich robotic manipulation.
+  - Investigating foundation model fine-tuning strategies to improve generalization and skill transfer in real-world environments.
 
 ### Contact Information
 - 📫 Email: wangzihan242@mails.ucas.ac.cn
