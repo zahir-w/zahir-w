@@ -2,7 +2,7 @@
 ### About Me
 - 🎓 **Bachelor's** Degree in Robotics, *South China University of Technology (2020-2024)*
 - 🌱 **Master's** Student in Computer Science, *University of Chinese Academy of Sciences (2024-2027)*
-- 🌟 **Research Interests**: <u>Multimodal Robotics, Robot Manipulation, Reinforcement Learning</u>
+- 🌟 **Research Interests**: <u>Multimodal Robotics, Large Language Model, Reinforcement Learning</u>
 
 ### Research Projects
 - 🔭 **Multimodal Fusion for Robot Grasping and Sliding Detection** *(Dec 2023 - May 2024)*
